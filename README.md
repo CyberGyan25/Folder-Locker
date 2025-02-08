@@ -30,6 +30,8 @@ Created for Event to Lock or Unlock File
    cd folder-password-protector-Application/dist
    ```
 
-                     👨‍💻 Developed by Yash Makwana
+
+
+👨‍💻 Developed by Yash Makwana
 
 

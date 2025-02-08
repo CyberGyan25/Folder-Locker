@@ -28,5 +28,6 @@ Created for Event to Lock or Unlock File
    ```
    ```bash
    cd folder-password-protector-Application/dist
+   ```
 
 

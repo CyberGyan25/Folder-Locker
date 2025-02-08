@@ -22,9 +22,11 @@ Created for Event to Lock or Unlock File
 
 ## Installation
 
-1. **Clone the Repository** (if applicable):
+1. **Clone the Repository** :
    ```bash
    https://github.com/CyberGyan25/Folder-Locker.git
+   ```
+   ```bash
    cd folder-password-protector-Application/dist
 
 

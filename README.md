@@ -41,8 +41,10 @@ Download Instructions:
 - Linux: Folder_Locker (run first)
   ```bash
   chmod +x Folder_Locker
+    ```
+  ```bash
   ./Folder_Locker
-  ```
+   ```
 
 👨‍💻 Developed by Yash Makwana
 

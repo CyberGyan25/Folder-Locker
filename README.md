@@ -30,7 +30,10 @@ Created for Event to Lock or Unlock File
    ```bash
    cd Folder Locker/dist
    ```
-
+Download Instructions:
+- Windows: folder_protector.exe
+- macOS: folder_protector (allow in Security & Privacy)
+- Linux: folder_protector (run `chmod +x folder_protector` first)
 
 
 👨‍💻 Developed by Yash Makwana

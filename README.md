@@ -27,7 +27,7 @@ Created for Event to Lock or Unlock File
    https://github.com/CyberGyan25/Folder-Locker.git
    ```
    ```bash
-   cd folder-password-protector-Application/dist
+   cd Folder Locker/dist
    ```
 
 

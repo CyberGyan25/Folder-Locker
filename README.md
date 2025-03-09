@@ -29,7 +29,7 @@ Created for Event to Lock or Unlock File
    ```
    **For windows :**
    ```bash
-   cd Folder Locker/dist
+   cd "Folder Locker"/dist
    ```
    **For Ubuntu :**
    ```bash

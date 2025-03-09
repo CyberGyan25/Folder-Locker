@@ -39,10 +39,10 @@ Created for Event to Lock or Unlock File
 Download Instructions:
 - Windows: `Folder_Locker.exe`
 - Linux: Folder_Locker (run first)
-         ```bash
-           chmod +x Folder_Locker
-         ./Folder_Locker
-         ```
+  ```bash
+  chmod +x Folder_Locker
+  ./Folder_Locker
+  ```
 
 👨‍💻 Developed by Yash Makwana
 

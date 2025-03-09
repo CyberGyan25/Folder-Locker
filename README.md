@@ -36,8 +36,8 @@ Created for Event to Lock or Unlock File
    cd "Folder Locker Ubuntu"/dist
    ```
    
-Download Instructions:
-- Windows: `Folder_Locker.exe`
+Run Instructions:
+- Windows: Double click `Folder_Locker.exe`
 - Linux: Folder_Locker (run first)
   ```bash
   chmod +x Folder_Locker

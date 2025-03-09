@@ -27,11 +27,11 @@ Created for Event to Lock or Unlock File
    ```bash
    git clone https://github.com/CyberGyan25/Folder-Locker.git
    ```
-   **windows**
+   **For windows :**
    ```bash
    cd Folder Locker/dist
    ```
-   **Ubuntu**
+   **For Ubuntu :**
    ```bash
    cd Folder Locker Ubuntu/dist
    ```

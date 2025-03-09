@@ -33,7 +33,7 @@ Created for Event to Lock or Unlock File
 Download Instructions:
 - Windows: `Folder_Locker.exe`
 - macOS: `Folder_Locker (allow in Security & Privacy)`
-- Linux: `Folder_Locker (run `chmod +x Folder_Locker` first)`
+- Linux: Folder_Locker (run `chmod +x Folder_Locker` first)
 
 
 👨‍💻 Developed by Yash Makwana

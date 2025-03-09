@@ -25,7 +25,7 @@ Created for Event to Lock or Unlock File
 
 1. **Clone the Repository** :
    ```bash
-   https://github.com/CyberGyan25/Folder-Locker.git
+   git clone https://github.com/CyberGyan25/Folder-Locker.git
    ```
    ```bash
    cd Folder Locker/dist

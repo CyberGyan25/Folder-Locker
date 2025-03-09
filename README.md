@@ -27,14 +27,22 @@ Created for Event to Lock or Unlock File
    ```bash
    git clone https://github.com/CyberGyan25/Folder-Locker.git
    ```
+   **windows**
    ```bash
    cd Folder Locker/dist
    ```
+   **Ubuntu**
+   ```bash
+   cd Folder Locker Ubuntu/dist
+   ```
+   
 Download Instructions:
 - Windows: `Folder_Locker.exe`
-- macOS: `Folder_Locker (allow in Security & Privacy)`
-- Linux: Folder_Locker (run `chmod +x Folder_Locker` first)
-
+- Linux: Folder_Locker (run first)
+         ```bash
+           chmod +x Folder_Locker
+         ./Folder_Locker
+         ```
 
 👨‍💻 Developed by Yash Makwana
 

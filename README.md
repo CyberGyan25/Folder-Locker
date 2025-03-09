@@ -19,6 +19,7 @@ Created for Event to Lock or Unlock File
 - Python 3.x
 - `pyAesCrypt` library
 - `tkinter` (comes pre-installed with Python)
+- `cryptography` library
 
 ## Installation
 

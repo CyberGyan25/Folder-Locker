@@ -33,7 +33,7 @@ Created for Event to Lock or Unlock File
    ```
    **For Ubuntu :**
    ```bash
-   cd Folder Locker Ubuntu/dist
+   cd "Folder Locker Ubuntu"/dist
    ```
    
 Download Instructions:

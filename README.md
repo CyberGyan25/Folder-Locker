@@ -31,9 +31,9 @@ Created for Event to Lock or Unlock File
    cd Folder Locker/dist
    ```
 Download Instructions:
-- Windows: folder_protector.exe
-- macOS: folder_protector (allow in Security & Privacy)
-- Linux: folder_protector (run `chmod +x folder_protector` first)
+- Windows: `Folder_Locker.exe`
+- macOS: `Folder_Locker (allow in Security & Privacy)`
+- Linux: `Folder_Locker (run `chmod +x Folder_Locker` first)`
 
 
 👨‍💻 Developed by Yash Makwana
